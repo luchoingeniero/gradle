@@ -12,10 +12,9 @@ task compilar <<{
     println 'Hola Mundo esta es mi tarea';
 }
 ```
-
-
-para ejecutar el comando solo es correr
+para ejecutar la tarea nos ubicamos en nuestro directorio de trabajo
+```
 $ gradle -q compilar
-o 
-$ gradle compilar 
+```
+
 

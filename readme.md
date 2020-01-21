@@ -8,7 +8,7 @@ _Ahora crearemos una tarea(**task**) llamada **compilar**(puede llamarse como qu
 En nuestro archivo **build.gradle** agregamos la siguientes lineas
 
 ```
-task compilar <<{
+task compilar {
     println 'Hola Mundo esta es mi tarea';
 }
 ```

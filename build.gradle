@@ -1,3 +1,3 @@
-task compilar <<{
+task compilar {
     println 'Hola Mundo esta es mi tarea';
 }

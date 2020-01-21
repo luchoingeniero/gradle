@@ -1,6 +1,5 @@
-# Título del Proyecto
+# Tutorial sobre Gradle
 
-_Tutorial sobre Gradle_
 _**Gradle** nos permite ejecutar tareas basadas en lenguajes como **Groovy** y **Java**_
 
 ## Comenzando 🚀

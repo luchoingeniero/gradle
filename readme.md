@@ -4,3 +4,5 @@ task compilar <<{
 
 para ejecutar el comando solo es correr
 $ gradle -q compilar
+o 
+$ gradle compilar 

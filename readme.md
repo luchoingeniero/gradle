@@ -5,7 +5,7 @@ _**Gradle** nos permite ejecutar tareas basadas en lenguajes como **Groovy** y *
 ## Comenzando 🚀
 _Ahora crearemos una tarea(**task**) llamada **compilar**(puede llamarse como quieras) en la cual ejecutaremos nuestro hola mundo con el **println**_
 
-**Veamos** en nuestro archivo **build.gradle** agregamos la siguientes lineas
+En nuestro archivo **build.gradle** agregamos la siguientes lineas
 
 ```
 task compilar <<{

@@ -1,3 +1,15 @@
 task compilar {
     println 'Hola Mundo esta es mi tarea';
 }
+
+task variables {
+    ext{
+    miAtributo = "atributo1"
+    
+    }
+    ext.otroAtributo ="atributo2"
+
+    println 'Esta es mi tarea variables';
+    println 'valor almacenado en miAtributo '+miAtributo
+    println 'valor almacenado en otroAtributo '+otroAtributo
+}
